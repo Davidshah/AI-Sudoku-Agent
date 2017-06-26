@@ -23,7 +23,7 @@ A: Diagonal sudoku has the extra constraint that among the two main diagonals, t
 ### Install
 
 This project requires **Python 3**.
-Dependencies found in `requirements.txt`
+Dependencies found in `requirements.txt`.
 
 ##### Optional: Pygame
 
