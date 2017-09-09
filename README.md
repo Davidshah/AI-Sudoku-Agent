@@ -25,7 +25,7 @@ A: Diagonal sudoku has the extra constraint that among the two main diagonals, t
 This project requires **Python 3**.
 Dependencies found in `requirements.txt`.
 
-#### Optional: Pygame
+### Optional: Pygame
 
 Optionally, you can also install pygame if you want to see your visualization. If you've followed our instructions for setting up our conda environment, you should be all set.
 
