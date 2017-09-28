@@ -1,5 +1,4 @@
-# Artificial Intelligence Nanodegree
-## Introductory Project: Diagonal Sudoku Solver
+# Diagonal Sudoku Solver
 
 ### Overview
 In this project, we will be writing code to implement an AI Sudoku solver.
