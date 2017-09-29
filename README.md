@@ -38,6 +38,6 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 * `PySudoku.py` - This is code for visualizing the solution.
 * `visualize.py` - This is code for visualizing ther solution.
 
-### Visualizing
+#### Visualizing
 
 To visualize the solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
